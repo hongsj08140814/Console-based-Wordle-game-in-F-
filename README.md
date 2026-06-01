@@ -130,7 +130,7 @@ In the original proposal, the game only showed the feedback result for each indi
 
 ## Experience Using an LLM
 
-I used an LLM to help develop this project. It was mainly used for 
+I used an LLM to help develop this project. It was mainly used for generating the word list(words.txt) from the dictionary, generating the initial structure and organizing the project into separate modules, and implementing the Wordle feedback logic.  The main point that the LLM was not able to do correctly was matching the exact output I wanted. It helped implement basic wordle rules and feedback correctly, but needed further prompts and additional fixing to make the interface cleaner and to match well with the proposal.
 
 ## Project Structure
 
