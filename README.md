@@ -32,23 +32,7 @@ git clone <repository-url>
 
 Replace `<repository-url>` with the actual URL of this repository.
 
-### Step 2: Go to the project folder
-
-On macOS or Linux:
-
-```bash
-cd wordle-fsharp
-```
-
-On Windows:
-
-```bat
-cd wordle-fsharp
-```
-
-If you downloaded a ZIP file, open a terminal or command prompt in the unzipped `wordle-fsharp` folder instead.
-
-### Step 3: Run the game
+### Step 2: Run the game
 
 On macOS or Linux, run:
 
@@ -69,7 +53,7 @@ You can also run the project directly on any platform with:
 dotnet run
 ```
 
-### Step 4: Play
+### Step 3: Play
 
 When the game starts, you should see:
 
